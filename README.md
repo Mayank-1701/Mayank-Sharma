@@ -1,5 +1,5 @@
 👋 Hi, I’m Mayank
-mayanksharma1791@gmail.com
+
 🎓 I’m a junior pursuing my Bachelors in Computer Applications.
 
 🌱 I’m currently learning C, HTML, CSS, JAVAScript, Python, JAVA.
