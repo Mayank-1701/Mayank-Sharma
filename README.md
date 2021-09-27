@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayank</h1>
+<h3 align="center">🎓 I’m a junior pursuing my Bachelors in Computer Applications.</h3>
 <h3 align="center">👨‍💻 I am passionate about Full Stack Devlopment & I enjoy learning new things</h3>
 
 <h3 align="left">Connect with me:</h3>
@@ -14,9 +15,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayank-sharma0&show_icons=true&locale=en&layout=compact" alt="mayank-sharma0" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayank-sharma0&show_icons=true&locale=en" alt="mayank-sharma0" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mayank-sharma0&show_icons=true&locale=en" alt="mayank-sharma0" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-sharma0&" alt="mayank-sharma0" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-sharma0&" alt="mayank-sharma0" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank-sharma0&label=Profile%20views&color=0e75b6&style=flat" alt="mayank-sharma0" /> </p>
 
