@@ -1,5 +1,4 @@
-
-
+# 👋 Hi, I’m Mayank
 
 🎓 I’m a junior pursuing my Bachelors in Computer Applications.
 
