@@ -15,25 +15,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayank-sharma0&show_icons=true&locale=en&layout=compact" alt="mayank-sharma0" /></p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mayank-sharma0&show_icons=true&locale=en" alt="mayank-sharma0" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mayank-sharma0&show_icons=true&locale=en" alt="mayank-sharma0" /></p><br><br><br><br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-sharma0&" alt="mayank-sharma0" /></p>
 
