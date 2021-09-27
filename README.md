@@ -16,7 +16,7 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-sharma0&" alt="mayank-sharma0" width="450" height="180" /> </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mayank-sharma0&show_icons=true&locale=en" alt="mayank-sharma0" width="510" height="230" /> </p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mayank-sharma0&show_icons=true&locale=en" alt="mayank-sharma0" width="520" height="230" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayank-sharma0" alt="mayank-sharma0"width="500" height="90" /></a> </p>
 
