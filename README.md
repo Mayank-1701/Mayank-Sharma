@@ -1,7 +1,6 @@
 <h1 align="left">Hi 👋, I'm Mayank</h1>
 <h3 align="left">About Me 🚀</h3>
-<h5 align="left">👨‍💻 I am passionate about Full Stack Devlopment & I enjoy learning new things</h5>
-<h5 align="left">👨‍💻 I am passionate about Kubernetes, Web Dev, Machine Learning, DevOps & I enjoy learning new things.</h5>
+<h4 align="left">👨‍💻 I am passionate about Full Stack Devlopment & I enjoy learning new things</h4>
 
 <p align="left"> <a href="https://twitter.com/mayanks43105607" target="blank"><img src="https://img.shields.io/twitter/follow/mayanks43105607?logo=twitter&style=for-the-badge" alt="mayanks43105607" /></a> </p>
 
@@ -18,7 +17,9 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mayank-sharma0&show_icons=true&locale=en" alt="mayank-sharma0" /></p>
 
+
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-sharma0&" alt="mayank-sharma0" /></p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayank-sharma0" alt="mayank-sharma0" /></a> </p>
 
