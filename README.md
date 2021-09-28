@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="30" width="30" />, I'm Mayank</h1>
+<h1 align="left">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="30" width="30" />, I'm Mayank</h1>
 <h3 align="left">About Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" height="30" width="30" /></h3>
 <h4 align="left">🎓 I’m a junior pursuing my Bachelors in Computer Science & Applications.</h4>
 <h4 align="left">👨‍💻 I’m passionate about Full Stack Devlopment & I enjoy learning new things.</h4>
