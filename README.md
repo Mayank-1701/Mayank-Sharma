@@ -1,7 +1,7 @@
 <h1 align="left">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="30" width="30" />, I'm Mayank</h1>
-<h3 align="left">About Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" height="30" width="40" /></h3>
+<h3 align="left">About Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" height="30" width="30" /></h3>
 <h4 align="left">🎓 I’m a junior pursuing my Bachelors in Computer Science & Applications.</h4>
-<h4 align="left">👨‍💻 I’m passionate about Full Stack Devlopment <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height="30" width="30" /> & I enjoy learning new things.</h4>
+<h4 align="left">👨‍💻 I’m passionate about Full Stack Devlopment <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height="30" width="40" /> & I enjoy learning new things.</h4>
 
 <h3 align="left">Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="30" width="60" /></a></h3>
 <p align="left">
