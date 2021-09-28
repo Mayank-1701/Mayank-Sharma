@@ -3,7 +3,7 @@
 <h4 align="left">🎓 I’m a junior pursuing my Bachelors in Computer Science & Applications.</h4>
 <h4 align="left">👨‍💻 I’m passionate about Full Stack Devlopment <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height="30" width="30" /> & I enjoy learning new things.</h4>
 
-<h3 align="left">Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="20" width="60" /></a></h3>
+<h3 align="left">Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="30" width="60" /></a></h3>
 <p align="left">
 <a href="https://twitter.com/mayanks43105607" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayanks43105607" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mayank-sharma-362272203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank-sharma-362272203" height="30" width="40" /></a>
