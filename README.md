@@ -1,10 +1,11 @@
 <p align="center"><img src="https://raw.githubusercontent.com/Shubham56-droid/Shubham56-droid/main/images/output-onlinegiftools.gif" height="300" width="300" /></p>
-<h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="30" width="30" />, I'm Mayank</h1>
+<h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="30" width="30" />, I'm Mayank ✨</h1>
 <h3 align="left">About Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" height="30" width="30" /></h3>
 <h4 align="left">🎓 I’m a junior pursuing my Bachelors in Computer Applications.</h4>
 <h4 align="left">👨‍💻 I’m passionate about Full Stack Devlopment <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height="30" width="40" /> & I enjoy learning new things.</h4>
+<h4 align="left">⚡ Fun fact: I love Listinig Music.</h4>
 
-<h3 align="left">Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="30" width="60" /></a></h3>
+<h3 align="left">🔎 Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="30" width="60" /></a></h3>
 <p align="left">
 <a href="https://twitter.com/mayanks43105607" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayanks43105607" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mayank-sharma-362272203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank-sharma-362272203" height="30" width="40" /></a>
