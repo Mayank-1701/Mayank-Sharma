@@ -1,9 +1,9 @@
 <p align="center"><img src="https://raw.githubusercontent.com/Shubham56-droid/Shubham56-droid/main/images/output-onlinegiftools.gif" height="300" width="300" /></p>
 <h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="30" width="30" />, I'm Mayank ✨</h1>
 <h3 align="left">About Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" height="30" width="30" /></h3>
-<h4 align="left">🎓 I’m a junior pursuing my Bachelors in Computer Applications.</h4>
-<h4 align="left">👨‍💻 I’m passionate about Full Stack Devlopment <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height="30" width="40" /> & I enjoy learning new things.</h4>
-<h4 align="left">⚡ Fun fact: I love Listinig Music.</h4>
+<p align="left">🎓 I’m a junior pursuing my Bachelors in Computer Applications.</p>
+<p align="left">👨‍💻 I’m passionate about Full Stack Devlopment <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height="30" width="40" /> & I enjoy learning new things.</p>
+<p align="left">⚡ Fun fact: I love Listinig Music.</p>
 
 <h3 align="left">🔎 Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="30" width="60" /></a></h3>
 <p align="left">
@@ -16,7 +16,7 @@
 <h3 align="left">Languages :</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-📊 My Github Stats
+<h3 align="left">📊 My Github Stats</h3>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-sharma-1791&" alt="mayank-sharma-1791" width="450" height="180" /> </p>
 
