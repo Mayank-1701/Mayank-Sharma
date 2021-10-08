@@ -3,7 +3,7 @@
 <h3 align="left">About Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" height="30" width="30" /></h3>
 <p align="left">🎓 I’m a junior pursuing my Bachelors in Computer Applications.</p>
 <p align="left">👨‍💻 I’m passionate about Full Stack Devlopment <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height="30" width="40" /> & I enjoy learning new things.</p>
-<p align="left">⚡ Fun fact: I love Listinig Music.</p>
+<p align="left">⚡ Fun fact: I love Listening Music.</p>
 
 <h3 align="left">🔎 Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="30" width="60" /></a></h3>
 <p align="left">
